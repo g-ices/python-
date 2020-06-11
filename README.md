@@ -21,3 +21,17 @@
 
 
 
+### 3. 七星彩以数据可视化的方式展示最近期数出现的数字次数
+
+##### 运行后的界面
+
+![1591876631214](C:\Users\m1570\AppData\Roaming\Typora\typora-user-images\1591876631214.png)
+
+##### 展示数据界面
+
+![1591876685900](C:\Users\m1570\AppData\Roaming\Typora\typora-user-images\1591876685900.png)
+
+##### 界面元素指导
+
+![9bacdb03b8f611c7826486a1beebb79](C:\Users\m1570\AppData\Local\Temp\WeChat Files\9bacdb03b8f611c7826486a1beebb79.png)
+
