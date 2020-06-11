@@ -25,13 +25,12 @@
 
 ##### 运行后的界面
 
-![1591876631214](C:\Users\m1570\AppData\Roaming\Typora\typora-user-images\1591876631214.png)
+！[1591876631214]（https://github.com/g-ices/python-/blob/master/images/1591876631214.png）
 
 ##### 展示数据界面
 
-![1591876685900](C:\Users\m1570\AppData\Roaming\Typora\typora-user-images\1591876685900.png)
+！[1591876685900]（https://github.com/g-ices/python-/blob/master/images/1591876685900.png）
+#####界面元素指导
 
-##### 界面元素指导
-
-![9bacdb03b8f611c7826486a1beebb79](C:\Users\m1570\AppData\Local\Temp\WeChat Files\9bacdb03b8f611c7826486a1beebb79.png)
+！[9bacdb03b8f611c7826486486a1beebb79]（https://github.com/g-ices/python-/blob/master/images/9bacdb03b8f611c78264866a1beebb79.png）
 
